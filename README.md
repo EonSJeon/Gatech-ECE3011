@@ -13,16 +13,16 @@ In the context of this collaborative effort, I assumed a leadership role in spea
 https://youtu.be/gud--ybyr-s?si=2pJu3Hc5zI2o3BWv
 
 ### Link to Final Document PDF: 
-https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/ECE3011%20Team%20C2%20Final%20Document%20Package.pdf
+[Final Document Package](ECE3011%20Team%20C2%20Final%20Document%20Package.pdf)
 
 Document containing the (1) Design Document,(2) Lesson Plan, and (3) BOM
 
 ### Front View Pictures:
 
-![Front_View_Pic1](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic1.png)
+![Front_View_Pic1](Front_View_of_RoBachtic_Symphony_Final_Build_pic1.png)
 
-![Front_View_Pic2](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Front_View_of_RoBachtic_Symphony_Final_Build_pic2.png)
+![Front_View_Pic2](Front_View_of_RoBachtic_Symphony_Final_Build_pic2.png)
 
 ### Labeled Picture:
 
-![Labeled_Picture](https://github.com/BellLabsEra/RoBACHtic-Symphony/blob/main/Alt_View_of_RoBachtic_Symphony_Final_Build_pics.png)
+![Labeled_Picture](Alt_View_of_RoBachtic_Symphony_Final_Build_pics.png)
